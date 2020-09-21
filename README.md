@@ -31,4 +31,4 @@ We used Axios to help grab information from our API.
 
 ## Other informations
 
-This app was developp in 3 hours and 30 minutes, and It was my first app in vue.js.
+This app was developed in 3 hours and 30 minutes, and It was my first app in vue.js.
